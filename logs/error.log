@@ -1,0 +1,6 @@
+{"level":"warn","message":"entra al metodo getOrdersByUserId - nivel warn"}
+{"level":"error","message":"entra al metodo getOrdersByUserId - nivel error"}
+2025-04-05 12:38:38 [WARN]: entra al metodo getOrdersByUserId - nivel warn
+2025-04-05 12:38:38 [ERROR]: entra al metodo getOrdersByUserId - nivel error
+2025-04-05 12:49:23 [WARNING]: entra al metodo getOrdersByUserId - nivel warn
+2025-04-05 12:49:23 [ERROR]: entra al metodo getOrdersByUserId - nivel error
