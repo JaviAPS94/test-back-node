@@ -13,7 +13,7 @@ import {
 const router = express.Router();
 
 router.post("/", saveProduct);
-router.get("/test/change-router", getAllProducts);
+router.get("/", getAllProducts);
 router.get("/by-filters", getProductsByFilters);
 router.get("/statistics", getProductsStatistics);
 router.get("/:id", getProductById);
